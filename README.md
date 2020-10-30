@@ -1,0 +1,1 @@
+This Repository is for storing code i have gathered from tutorials on youtube by a streamer called <a href="https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA">Chris Courses</a>. All code belongs to Chris and is used for studying purposes only.
